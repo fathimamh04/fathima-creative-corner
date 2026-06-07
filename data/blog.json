@@ -1,0 +1,51 @@
+[
+  {
+    "title": "My Coding Journey",
+    "image": "../assets/blog/coding-journey.png",
+    "description": "How I started learning programming and building projects.",
+    "date": "June 2026",
+    "link": "../blog-posts/my-coding-journey.html"
+  },
+  {
+    "title": "Building Expense Tracker",
+    "image": "../assets/blog/expense-tracker-blog.png",
+    "description": "Building a budgeting application with a virtual companion to make expense tracking engaging and user-friendly.",
+    "date": "June 2026",
+    "link": "../blog-posts/building-expense-tracker.html"
+  },
+  {
+    "title": "Designing Aesthetic To-Do",
+    "image": "../assets/blog/aesthetic-todo-blog.png",
+    "description": "Creating a cute productivity application featuring a character companion and a scrapbook-inspired design.",
+    "date": "June 2026",
+    "link": "../blog-posts/designing-aesthetic-todo.html"
+  },
+  {
+    "title": "Building My Weather App",
+    "image": "../assets/blog/weather-app-blog.png",
+    "description": "Learning API integration while creating an interactive weather application with an animated mascot.",
+    "date": "June 2026",
+    "link": "../blog-posts/building-weather-app.html"
+  },
+  {
+    "title": "Creating Lumi AI",
+    "image": "../assets/blog/lumi-ai-blog.png",
+    "description": "Developing an AI companion application where users can connect their own API keys and interact with a pixel-art assistant.",
+    "date": "June 2026",
+    "link": "../blog-posts/creating-lumi-ai.html"
+  },
+  {
+    "title": "Building Plant Doc",
+    "image": "../assets/blog/plant-doc-blog.png",
+    "description": "An AI-powered plant disease detection project developed during my Infosys Springboard internship.",
+    "date": "June 2026",
+    "link": "../blog-posts/building-plant-doc.html"
+  },
+  {
+    "title": "Lessons From My First Portfolio",
+    "image": "../assets/blog/first-portfolio-blog.png",
+    "description": "The challenges, lessons, and achievements from building my first portfolio website.",
+    "date": "June 2026",
+    "link": "../blog-posts/first-portfolio-lessons.html"
+  }
+]

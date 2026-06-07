@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Diploma in Multilingual Computer Programming (A+)",
+    "image": "../assets/certificates/cdac-diploma.png"
+  },
+  {
+    "title": "Introduction to Deep Learning",
+    "image": "../assets/certificates/deep-learning.png"
+  },
+  {
+    "title": "Introduction to Natural Language Processing",
+    "image": "../assets/certificates/nlp.png"
+  },
+  {
+    "title": "AI Literacy",
+    "image": "../assets/certificates/ai-literacy.png"
+  },
+  {
+    "title": "Interacting with AI",
+    "image": "../assets/certificates/interacting-with-ai.png"
+  },
+  {
+    "title": "Exploring Artificial Intelligence",
+    "image": "../assets/certificates/exploring-ai.png"
+  },
+  {
+    "title": "AWS Solutions Architecture Job Simulation",
+    "image": "../assets/certificates/aws-forage.png"
+  },
+  {
+    "title": "Deloitte Cyber Job Simulation",
+    "image": "../assets/certificates/deloitte-cyber.png"
+  },
+  {
+    "title": "Machine Learning Using Python Workshop",
+    "image": "../assets/certificates/ml-python-workshop.png"
+  },
+  {
+    "title": "ICT Academy Top10 South Region Participation",
+    "image": "../assets/certificates/ict-top10.png"
+  },
+  {
+    "title": "Infosys Springboard Internship Certificate (Coming June 20, 2026)",
+    "image": "../assets/certificates/infosys-springboard-upcoming.png"
+  }
+]

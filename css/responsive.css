@@ -1,0 +1,201 @@
+/* ===================================
+   TABLETS & SMALL LAPTOPS
+=================================== */
+
+@media (max-width: 900px){
+
+    /* NAVBAR */
+
+    .navbar{
+
+        flex-direction:column;
+
+        height:auto;
+
+        padding:20px;
+    }
+
+    .nav-links{
+
+        flex-wrap:wrap;
+
+        justify-content:center;
+
+        margin-top:15px;
+    }
+
+    /* HERO */
+
+    .hero{
+
+        flex-direction:column-reverse;
+
+        text-align:center;
+
+        gap:40px;
+
+        padding-top:120px;
+    }
+
+    .hero-text,
+    .hero-image{
+
+        width:100%;
+    }
+
+    .hero-image img{
+
+        max-width:400px;
+
+        width:100%;
+
+        height:auto;
+
+        margin:auto;
+    }
+
+    .hero h1{
+
+        font-size:3rem;
+    }
+
+    .hero p{
+
+        margin:auto;
+
+        margin-top:20px;
+    }
+
+    .hero-buttons{
+
+        justify-content:center;
+    }
+
+    /* ABOUT */
+
+    .about-card{
+
+        padding:30px;
+    }
+
+    /* CONTACT */
+
+    .contact-wrapper{
+
+        flex-direction:column;
+
+        gap:40px;
+    }
+
+    .contact-image,
+    .contact-content{
+
+        width:100%;
+    }
+
+    .contact-image img{
+
+        max-width:400px;
+
+        width:100%;
+
+        margin:auto;
+    }
+
+    /* FOOTER */
+
+    .footer-links{
+
+        flex-wrap:wrap;
+
+        justify-content:center;
+
+        gap:15px;
+    }
+}
+
+/* ===================================
+   MOBILE DEVICES
+=================================== */
+
+@media (max-width: 768px){
+
+    .hero{
+
+        padding-top:100px;
+    }
+
+    .hero h1{
+
+        font-size:2.5rem;
+    }
+
+    .hero p{
+
+        font-size:1rem;
+    }
+
+    .hero-image img{
+
+        max-width:320px;
+    }
+
+    .contact-image img{
+
+        max-width:320px;
+    }
+
+    .article-container{
+
+        padding:25px;
+    }
+
+    .article-container h1{
+
+        font-size:2rem;
+    }
+}
+
+/* ===================================
+   SMALL PHONES
+=================================== */
+
+@media (max-width: 480px){
+
+    .hero h1{
+
+        font-size:2rem;
+    }
+
+    .hero-image img{
+
+        max-width:280px;
+    }
+
+    .contact-image img{
+
+        max-width:280px;
+    }
+
+    .hero-buttons{
+
+        flex-direction:column;
+
+        gap:15px;
+    }
+
+    .btn{
+
+        width:100%;
+    }
+
+    .article-container{
+
+        padding:20px;
+    }
+
+    .article-container h1{
+
+        font-size:1.7rem;
+    }
+}

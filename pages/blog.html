@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
+
+<title>Blogs | Fathima</title>
+
+<link rel="stylesheet"
+href="../css/style.css">
+
+<link rel="stylesheet"
+href="../css/responsive.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&display=swap"
+rel="stylesheet">
+
+</head>
+
+<body>
+
+<section class="blog-preview">
+
+    <div class="section-heading">
+
+        <h2>My Blog ✍️</h2>
+
+    </div>
+
+    <div id="blogContainer"
+         class="blog-grid">
+
+    </div>
+
+</section>
+
+<script>
+
+async function loadBlogs(){
+
+    const response =
+        await fetch("../data/blog.json");
+
+    const blogs =
+        await response.json();
+
+    const container =
+        document.getElementById("blogContainer");
+
+    blogs.forEach(blog=>{
+
+        container.innerHTML += `
+
+        <div class="blog-card">
+
+            <img
+            src="${blog.image}"
+            alt="${blog.title}">
+
+            <div class="blog-content">
+
+                <span class="blog-date">
+
+                    ${blog.date}
+
+                </span>
+
+                <h3>
+
+                    ${blog.title}
+
+                </h3>
+
+                <p>
+
+                    ${blog.description}
+
+                </p>
+
+                <a href="${blog.link}"
+                   class="read-more">
+
+                    Read Article →
+
+                </a>
+
+            </div>
+
+        </div>
+
+        `;
+
+    });
+
+}
+
+loadBlogs();
+
+</script>
+
+</body>
+
+</html>

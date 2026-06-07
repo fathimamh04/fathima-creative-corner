@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Lumi AI",
+    "image": "../assets/projects/lumi-ai-cover.png",
+    "description": "A pixel-art AI companion application that allows users to connect their own API keys and interact with an animated assistant.",
+    "tech": ["Python", "LLM Integration", "REST API", "AI"],
+    "github": "https://github.com/fathimamh04",
+    "demo": "#"
+  },
+  {
+    "title": "Plant Doc",
+    "image": "../assets/projects/plant-doc-cover.png",
+    "description": "An AI-powered plant disease detection application developed during the Infosys Springboard internship using image and text analysis.",
+    "tech": ["Python", "Machine Learning", "AI", "Image Analysis"],
+    "github": "https://github.com/fathimamh04",
+    "demo": "#"
+  },
+  {
+    "title": "Weather App",
+    "image": "../assets/projects/weather-app-cover.png",
+    "description": "A weather forecasting application featuring API integration, dynamic weather updates, and an animated mascot companion.",
+    "tech": ["JavaScript", "API", "HTML", "CSS"],
+    "github": "https://github.com/fathimamh04",
+    "demo": "#"
+  },
+  {
+    "title": "Aesthetic To-Do",
+    "image": "../assets/projects/aesthetic-todo-cover.png",
+    "description": "A cute productivity application with a scrapbook-inspired interface and a virtual character companion.",
+    "tech": ["JavaScript", "HTML", "CSS", "UI Design"],
+    "github": "https://github.com/fathimamh04",
+    "demo": "#"
+  },
+  {
+    "title": "Expense Tracker",
+    "image": "../assets/projects/expense-tracker-cover.png",
+    "description": "A personal finance application with a virtual companion that helps users track spending and manage budgets effectively.",
+    "tech": ["Flutter", "Firebase", "Finance", "Mobile App"],
+    "github": "https://github.com/fathimamh04",
+    "demo": "#"
+  }
+]
