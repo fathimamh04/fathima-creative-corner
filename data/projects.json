@@ -1,12 +1,12 @@
 [
-  {
-    "title": "Lumi AI",
-    "image": "../assets/projects/lumi-ai-cover.png",
-    "description": "A pixel-art AI companion application that allows users to connect their own API keys and interact with an animated assistant.",
-    "tech": ["Python", "LLM Integration", "REST API", "AI"],
-    "github": "Private",
-    "demo": "https://lumi-projectfinal-git-main-fathima-s-projects-6c98d186.vercel.app/"
-  },
+{
+  "title": "Lumi AI",
+  "image": "../assets/projects/lumi-ai-cover.png",
+  "description": "A pixel-art AI companion application that allows users to connect their own API keys and interact with an animated assistant powered by LLM integration and REST APIs.",
+  "tech": ["Python", "LLM Integration", "REST API", "AI", "Frontend UI"],
+  "github": "Private",
+  "demo": "https://lumi-projectfinal-git-main-fathima-s-projects-6c98d186.vercel.app/"
+},
   {
     "title": "Plant Doc",
     "image": "../assets/projects/plant-doc-cover.png",
